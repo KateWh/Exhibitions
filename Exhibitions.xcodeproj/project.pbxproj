@@ -69,7 +69,7 @@
 				C60FC4542264A85A000D7E74 /* UILayer */,
 				C60FC45D2264AF50000D7E74 /* GetData */,
 				C60FC4552264A895000D7E74 /* DataModel */,
-				C6D0A4302264FA1F00593D8C /* Support file */,
+				C6D0A4302264FA1F00593D8C /* SupportFile */,
 			);
 			path = Exhibitions;
 			sourceTree = "<group>";
@@ -104,14 +104,14 @@
 			path = GetData;
 			sourceTree = "<group>";
 		};
-		C6D0A4302264FA1F00593D8C /* Support file */ = {
+		C6D0A4302264FA1F00593D8C /* SupportFile */ = {
 			isa = PBXGroup;
 			children = (
 				C60FC4412264A817000D7E74 /* AppDelegate.swift */,
 				C60FC4482264A819000D7E74 /* Assets.xcassets */,
 				C60FC44D2264A819000D7E74 /* Info.plist */,
 			);
-			path = "Support file";
+			path = SupportFile;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -340,7 +340,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GC8SPUUSA6;
-				INFOPLIST_FILE = "$(SRCROOT)/Exhibitions/Support file/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Exhibitions/SupportFile/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -358,7 +358,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = GC8SPUUSA6;
-				INFOPLIST_FILE = "$(SRCROOT)/Exhibitions/Support file/Info.plist";
+				INFOPLIST_FILE = "$(SRCROOT)/Exhibitions/SupportFile/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
